@@ -1,0 +1,651 @@
+Tempo de execução: 0:00:00.303180
+Intervalo tempo geração: 0:00:00.045423
+geracao: 0
+genes: VIhS,UjBbJrWnKjDdfMhJzgCokiuEXmxFMoECxFLPvvWb FfSkRWYGDw.INNgcpAybhrj,fVmqKHrjzuuzuAK.jPsYWoAdRCD,bs
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 7
+
+Tempo de execução: 0:00:00.362708
+Intervalo tempo geração: 0:00:00.059493
+geracao: 1
+genes: ZyDUxVjh PBOzPEb!kljNzBPOQAik!pgFhLfSgKgHM.bVuClEMuDQxueqvk!LtapgQzRHYGKt,EccUMgwPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 9
+
+Tempo de execução: 0:00:00.542508
+Intervalo tempo geração: 0:00:00.179772
+geracao: 3
+genes: dKVPi ErmZVcmCsfk!vPBIvJKXYswcil,M nJDdBIAlgssoVFZoizBPJuYYs.TKetwIKCCxqzg.kpryeXGGvYTslPWkThVKImGWG
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 10
+
+Tempo de execução: 0:00:00.797031
+Intervalo tempo geração: 0:00:00.254498
+geracao: 6
+genes: PLzabpnorFXPEPGGYuCmpZZjpdhsf VEcrVGrwQPSeQVLnYPkjoizBPxuYYs.TKetwIKCCxqzg.kpryeXGGvYTslPWkThVKImGWG
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 11
+
+Tempo de execução: 0:00:00.857201
+Intervalo tempo geração: 0:00:00.060144
+geracao: 9
+genes: TrYffztwUbHxapPWAciJvuABOxuNGvUGurffoeeYBc.ZIylDmRuDQxueqvk!LtapgQzRHYGKt,EccUMgGPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 12
+
+Tempo de execução: 0:00:01.096286
+Intervalo tempo geração: 0:00:00.239062
+geracao: 11
+genes: swn.!KRWAklzOHFForC.HEg.re.vc mWJen F axnbSYGAiWYiuDQxueqvk!LtapgQzHHYGKt,EccUMgwPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 13
+
+Tempo de execução: 0:00:02.268373
+Intervalo tempo geração: 0:00:01.172050
+geracao: 19
+genes: TrYffztwUbHxapPWAciJvuABOxuNG XGurffoeeYB..ZIylDmRuDQxueqvk!LtapgQzRHYGKt,EccUMgwPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 14
+
+Tempo de execução: 0:00:03.108993
+Intervalo tempo geração: 0:00:00.840580
+geracao: 29
+genes: TrYffztwUbHxapPWAciJvuABHxuNG XGurffoeeYB..ZIylDmRuDQxueqvk!LtapgQzRHYGKt,EccUMgwPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 15
+
+Tempo de execução: 0:00:03.944629
+Intervalo tempo geração: 0:00:00.835614
+geracao: 38
+genes: ErY.fztwUbHxapPWAciJvuABOxuNG XGurffVeeYB..ZIylqmRuDQxuegvk!LtapgQzRHYGKt,EccUMgGPPskJemXnY!td!cjNgY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 16
+
+Tempo de execução: 0:00:04.415549
+Intervalo tempo geração: 0:00:00.470897
+geracao: 45
+genes: ErY.fztwUbHxapPWAciJvuABOxuNG XGuOffVeeYB..ZIylDmRuDQxueqvk!LtapgQzRHYGKt,EccUMgwPPskJemXnY!td!cjNbY
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 17
+
+Tempo de execução: 0:00:06.147811
+Intervalo tempo geração: 0:00:01.732236
+geracao: 57
+genes: ErY.fztwUbHxapPWAciJvutBOxuNG XGuOffVeeYB. ZIylrmRErY.fztwUbHxapPWAcifvuABOxbNG XGuOffVeeYB..ZIylDmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 18
+
+Tempo de execução: 0:00:07.218008
+Intervalo tempo geração: 0:00:01.070186
+geracao: 65
+genes: ErY.f twUbHxapPWAcifvuABOxuNG XGuOffVeyYB..ZIylDmRErY.fztwUbHxapPWAciJvutBOxuNG XGuOffVeeYB. ZIylSmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 19
+
+Tempo de execução: 0:00:07.886608
+Intervalo tempo geração: 0:00:00.668544
+geracao: 69
+genes: ErY.f twUbHxmpPWAcifvuABKxuNG XGuOffVeyYB..ZIylDmRErY.fztwSbHxapPWAcifvuABOxuNG XGaOffVeyYB..ZIylDmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 20
+
+Tempo de execução: 0:00:08.974667
+Intervalo tempo geração: 0:00:01.088020
+geracao: 73
+genes: ErY.f twUbHxmpPWAcifvuABKxuNG XGuOffVeyYB..ZIylDmRjrY.fztwSbHxapPWAcifvuABOxuNG XGaOffVeyYB..ZIylDmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 21
+
+Tempo de execução: 0:00:10.184646
+Intervalo tempo geração: 0:00:01.209930
+geracao: 94
+genes: ErY.fztwSbHxapPWAcifvuABOxhNG XGaOnfVwyYB..ZIylDmRErY.qztwSbHxapPWAcifvuABOxuNG XGaOffVeyYB..ZIylDmF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 22
+
+Tempo de execução: 0:00:10.425878
+Intervalo tempo geração: 0:00:00.241193
+geracao: 96
+genes: ErY.fztwSbHxapPWAcifvuABOxhNG XGaOnfVwyYB..ZIylDmRErY.fztwSbHxapPWAciftuABOxuNG XGaOnfVwyYB..ZIylDmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 23
+
+Tempo de execução: 0:00:12.130466
+Intervalo tempo geração: 0:00:01.704549
+geracao: 107
+genes: ErY.fztwSbHxapPWAcifvuAuOxhNG XGaOnfVwyYB..ZIylDmRErY.fztwSbHxapPWAcifvuABOluNG XGaOnfVwyYB..ZIylDmR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 24
+
+Tempo de execução: 0:00:12.606298
+Intervalo tempo geração: 0:00:00.475792
+geracao: 117
+genes: ErY.fztwSbHxapPWAcifvuABOxuNG XGaOnfVwyLS..ZIylDbRErY.fztwSbHxapPWAcifvuABOxuNG XGaOnfVwy S..ZIylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 25
+
+Tempo de execução: 0:00:13.466868
+Intervalo tempo geração: 0:00:00.860531
+geracao: 124
+genes: EkY.fztwSbHwapPWAcifvuABOQuNG XGaOnfVwyLS..ZIylDbRErY.fztwSbHxapPWAcifvuABOxuNG XGaOnfVwyLS..ZIylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 26
+
+Tempo de execução: 0:00:15.177366
+Intervalo tempo geração: 0:00:01.710458
+geracao: 138
+genes: ErY.fztwSbHxapPWAcifvuABOxuNG XGaOnfVwyLS..ZIYlDbRErY.fztwSbHxaPPWAcifvu!BOxuNG XGaOnfVwyLS..ZKylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 27
+
+Tempo de execução: 0:00:15.661561
+Intervalo tempo geração: 0:00:00.484152
+geracao: 141
+genes: ErY.fztwSbHxaPPMAcifvuABOxuNG XGaOnfVwyLS.CZIylDbRErY.fztwSbHxaPPMAcifvuABOxuNG XGaOnfVwyLSTCZIylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 28
+
+Tempo de execução: 0:00:16.232065
+Intervalo tempo geração: 0:00:00.570464
+geracao: 147
+genes: ErY.fztwSbHxaPPMAcifvOABOxuNG XGaOnfVwyLS.CZIYlSbRErY.fztwSbHxaPPMAcifvuABOxuNG XGaOnfVwyLS.CZIylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 29
+
+Tempo de execução: 0:00:16.597305
+Intervalo tempo geração: 0:00:00.365191
+geracao: 152
+genes: ErY.fztwSbHxaPPMAcifvOABOxuNG XGaOnfVwyLS.CZIYlSbRErY.fztwSbHxaPPMAcifvuABOxuNG XGaOnfVwyLSTCZIylDbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 30
+
+Tempo de execução: 0:00:16.927961
+Intervalo tempo geração: 0:00:00.330619
+geracao: 158
+genes: ErY.fztwSbHxaPPMAcCfvOABOxuNG XGaOnfVwyLS.CZIYlSbRjrY.fztwSbHxaPPMAcifvuABOxuNG XGaOnfVwyLS.CZIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 31
+
+Tempo de execução: 0:00:17.303256
+Intervalo tempo geração: 0:00:00.375269
+geracao: 161
+genes: ErY.fztwSbHxaPPMAcifvOABOxuNG XGaOnfVwyLS.CZIYlSbRErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnfVwyLS.CZIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 32
+
+Tempo de execução: 0:00:18.193920
+Intervalo tempo geração: 0:00:00.890651
+geracao: 165
+genes: ErY.fztwSbHxaPPMAcCfvOABOxuvG XGaOnfVwyLS.CZIYlSbRErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnfVwyLS.CZIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 33
+
+Tempo de execução: 0:00:18.687965
+Intervalo tempo geração: 0:00:00.493993
+geracao: 174
+genes: ErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnfVwyLS.CWIYlSbRErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnJVwyLS.CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 34
+
+Tempo de execução: 0:00:19.082616
+Intervalo tempo geração: 0:00:00.394617
+geracao: 177
+genes: ErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnfkwyLS.CWIYlSbRErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnJVwyLS.CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 35
+
+Tempo de execução: 0:00:20.273385
+Intervalo tempo geração: 0:00:01.190740
+geracao: 188
+genes: ErY.fztwSbfxaPPMAcCftOABOxuNG XGaOnfVwyLS.CWIYlzbRErY.fztwSbHxaPPMAcCftOABOxuNG XGaOnJVwyLS.CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 36
+
+Tempo de execução: 0:00:22.190531
+Intervalo tempo geração: 0:00:01.917105
+geracao: 201
+genes: ErY.fztwSbsxaPPMAVCftOtBOxuNG XGaOnJVwyLS.CWIYlSbRErY.fztwSbsxaPPMAcCftOtBOxusG XGaOnJVwyLS.CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 37
+
+Tempo de execução: 0:00:24.294370
+Intervalo tempo geração: 0:00:02.103799
+geracao: 217
+genes: ErY.fztwSbsxaPPMMVCftOtBOxuNG XGaOnJVwyLS.CWIYlSbRErY.fztwSbsxaPPMAcCftOtBOxusG XGaOnJVwyLS.CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 38
+
+Tempo de execução: 0:00:25.186930
+Intervalo tempo geração: 0:00:00.892532
+geracao: 220
+genes: ErY.fztwSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWIYlzbRErY.fztwSbsxaPPMAcCftOtBHxusG XGaOnJVwyLS,CWIYlSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 39
+
+Tempo de execução: 0:00:27.278286
+Intervalo tempo geração: 0:00:02.091333
+geracao: 230
+genes: ErY.fztUSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWIYjSbRErY.fztwSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWIYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 40
+
+Tempo de execução: 0:00:27.737402
+Intervalo tempo geração: 0:00:00.459085
+geracao: 242
+genes: ErY.fztUSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWIYjSbRErY.fztvSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWIYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 41
+
+Tempo de execução: 0:00:28.893912
+Intervalo tempo geração: 0:00:01.156484
+geracao: 251
+genes: E,Y.fztwSbsxaPPMAVCftOtuHxusG XGaOnJVwyLS,CWKYjSbRErY.fztvSbsxaPPMAVCftOtBHlusG XGaOnJVwyLS,CWIYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 42
+
+Tempo de execução: 0:00:30.814452
+Intervalo tempo geração: 0:00:01.920500
+geracao: 257
+genes: E,Y.fztwSbsxaPPMAVIftOtuHxusG XGaOnJVwyLS,CWKYjSbRErY.fztwSvsxaPPMAVCftOtuHxusG XGaOnJVwyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 43
+
+Tempo de execução: 0:00:34.211913
+Intervalo tempo geração: 0:00:03.397414
+geracao: 271
+genes: E,Y.fztwSbfxaPPMMVCftOtuHxusG XGaOnJVwyLS,CWKYjSbRErY.fztvSbsxaPPMAVCftOtBHxusG XGaOnJVwyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 44
+
+Tempo de execução: 0:00:37.202201
+Intervalo tempo geração: 0:00:02.990262
+geracao: 290
+genes: E,Y.fztwSbsxaPPMMVCftOtuHxusG XGaOnJkwyLS,CWKYjSbRErY.fztwSvsxaPPFAVCftOtuHxusG XGaOnJVwyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 45
+
+Tempo de execução: 0:00:42.289078
+Intervalo tempo geração: 0:00:05.086836
+geracao: 301
+genes: E.Y.fztUSbsxaPPMMVCftOtuHxusG XGaOnJVwyLS,CWKYjSbRjrY.fntwSbsxaPPlAVCftOtuHxqsG XGaOnJVwyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 46
+
+Tempo de execução: 0:00:44.498964
+Intervalo tempo geração: 0:00:02.209851
+geracao: 304
+genes: E.Y.fztUSbsxaPPMMVCftOtuHxusG XGaOnJVwyLS,CWKYjSbRE,Y.fztwSbfxaPaMAVCftOtuHlusG XGaOnJVwyLS,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 47
+
+Tempo de execução: 0:00:47.654325
+Intervalo tempo geração: 0:00:03.155330
+geracao: 313
+genes: E.Y.fztUSbsxaPPMMVCftOtuHxuvG XGaOnJVwyLS,CWKYjSbRjrY.fntwSbaxaPPlAVCftOtuHxqsG XGaOnJVwyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 48
+
+Tempo de execução: 0:00:55.123228
+Intervalo tempo geração: 0:00:07.468879
+geracao: 326
+genes: E.Y.fztUSbsxaPPMMVCftOtuHxuvG XGaOnJVwyLS,CWKYjSbRjqY.fntwSbaxaPPlAVCftOtuHxqsG XGaOnJVwXLY,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 49
+
+Tempo de execução: 0:00:57.483001
+Intervalo tempo geração: 0:00:02.359743
+geracao: 335
+genes: E.n.fztUSbsxaPPMMVCftOtuHxusG XGaOnEKwyLS,CWKYjSbRjrY.fntwSbaxaPPlAVCftOtuHxqsG XGaOnJswyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 50
+
+Tempo de execução: 0:01:00.438648
+Intervalo tempo geração: 0:00:02.955621
+geracao: 340
+genes: E.n.fztUSbsxaPPMMVCftOtuHxusG XGaMnEKwyLS,CWKYjSbRjrY.fntwSbaxaPPlAVCftOtuHxtsG XGaOnJswyLS,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 51
+
+Tempo de execução: 0:01:10.429272
+Intervalo tempo geração: 0:00:09.990599
+geracao: 354
+genes: E.n.fztUSbsxaPPMMVCftOtuHxusG XGaMnEKwyLS,CWKYjSbRjrY.fntwSbaxaPPlAVCftObuHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 52
+
+Tempo de execução: 0:01:38.288961
+Intervalo tempo geração: 0:00:27.859677
+geracao: 386
+genes: E.n.fztUSbsxaPPMMVCftOtuHxusG XGaMnEKwyLS,CWKYjSbRjrY.fntwSbaxaPPFAVCftObuHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 53
+
+Tempo de execução: 0:02:17.269184
+Intervalo tempo geração: 0:00:38.980110
+geracao: 417
+genes: E.n.fztUSbsxaPPMMVCftOtuHQusG XGaMkEKwyLS,CWKYjSbRjrY.fntwSbaxaPPFAVCftObuHxqsG XGaOnJVwXLW,EWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 54
+
+Tempo de execução: 0:03:14.814941
+Intervalo tempo geração: 0:00:57.545730
+geracao: 449
+genes: E.n.f tUSbsxaPPMMVC tOtuHxusG XGaMnEKwyLS,CWKYjSbRjrY.fntwubaxaPPFAVCftObuHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 55
+
+Tempo de execução: 0:03:36.804196
+Intervalo tempo geração: 0:00:21.989214
+geracao: 463
+genes: E.n.fztUSbsxaPPMMVCftOtuHQusx XGaMkEKwyLS,CWKYjSbRjrY.fntwSbaxaPPFAVCftObuHxqsG XGaOnJVwXLW,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 56
+
+Tempo de execução: 0:04:18.393700
+Intervalo tempo geração: 0:00:41.589479
+geracao: 486
+genes: E.n.fztUSbsxmPPMMVCftOtuHxusx XGaMnEkwyLS,CWKYjSbRjrY.fntwSbaxaPNFAVCftObNHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 57
+
+Tempo de execução: 0:05:00.174428
+Intervalo tempo geração: 0:00:41.780692
+geracao: 522
+genes: E.n.fztUSbsxmPPMMVIftOtuHxusx XGaMnEKwyLS,CWKYjSbRjNY.fntwSbaxaPNF.VCftObNHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 58
+
+Tempo de execução: 0:05:27.259904
+Intervalo tempo geração: 0:00:27.085433
+geracao: 528
+genes: E.n.fztUSbsxmPPMMVIftOtuHxusx XGaMnEKwyLSDCWKYjSbRjNY.fntwSbaxaPNF.VCftObNHxqsG XGaOnJVwXLW,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 59
+
+Tempo de execução: 0:06:27.102814
+Intervalo tempo geração: 0:00:59.842874
+geracao: 568
+genes: E.n.fztUSbsxmPPMMVIftOtuHxusx XGJMnEKwyLS,CWKYjSbRjNY.fntwSvaxaPNF.VCftObNkxqsG XGaOnJVwXLWlCWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 60
+
+Tempo de execução: 0:06:37.172333
+Intervalo tempo geração: 0:00:10.069495
+geracao: 579
+genes: E.n.fztUSbsxmPPMMVIftOtuHxusx XGaMnEKwyLSDCWKYjSbRjNY.fntwSvaxaPNF.VCftObNklqsG XGaOnJVwXLWlCWKYjSbH
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 61
+
+Tempo de execução: 0:07:27.489064
+Intervalo tempo geração: 0:00:50.316700
+geracao: 607
+genes: E.n.f tUSbsxmPPMMVIftOtuHxusx XGaMnEKwyLSDCWKYjSbRjNY.fntwSvaxaPNF.VCftObNklqsG XGaOnJVwXLWlCWKYjSbH
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 62
+
+Tempo de execução: 0:08:03.627387
+Intervalo tempo geração: 0:00:36.138295
+geracao: 638
+genes: E.n.f tUSbsxmPPMMVIftOtuHxusx XGaMnEKwyLSDCWKYjSbRjNY.fntwSvaxaPNF.OCftObNklqsG XGaOnJVwXLWlCWKYjSbH
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 63
+
+Tempo de execução: 0:08:38.903356
+Intervalo tempo geração: 0:00:35.275938
+geracao: 646
+genes: E.n.f tUSbsxmPPMMVIftOtuHxusx XGJMnEKwyLSDCWKYjSbJjNY.fntwSvaxaPNF.VCftObNklqsG XGaOnJVwXLWlCWKYjSbH
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 64
+
+Tempo de execução: 0:08:53.629727
+Intervalo tempo geração: 0:00:14.726343
+geracao: 669
+genes: E.n.f tUSbsxmPPMMVIftOtuHxusx XGJMnEKwyLSDCWKYjSbJjNY.fntwYvaxaPNF.VCftObNHxqsG XGaOnJVwX W,CWKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 65
+
+Tempo de execução: 0:09:59.760261
+Intervalo tempo geração: 0:01:06.130502
+geracao: 715
+genes: E.n.f tUSbsxmPPMMVIftOtuHBusx XGJMnEKwyLSDCWKYjSbJjNY.cntwSbaxaPNF.VCftObNHxqsG X.aOnJswXAWoCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 66
+
+Tempo de execução: 0:10:38.979076
+Intervalo tempo geração: 0:00:39.218765
+geracao: 733
+genes: E.n.f tUSbsxmPPMMVIftOtuHxusx XGJMGEKwyLSDCWKYjSbJjNY.cntwSbaxaPaF.VCftObNKxqsG X.aOnJVwXAW,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 67
+
+Tempo de execução: 0:11:13.171721
+Intervalo tempo geração: 0:00:34.192591
+geracao: 753
+genes: E.n.f tUSbsxmPPMMVIftOtuHxuvx XGJMnEKwyLSDCWKYjSbJjNY.cntwYvaxaPNF.VCftObNHxqsG XGaOnJVwX W, WKYjSbR
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 68
+
+Tempo de execução: 0:11:39.738093
+Intervalo tempo geração: 0:00:26.566341
+geracao: 775
+genes: E.n.f tUSbsxmRRMMVIftOtuHxusx XGJMnEKwyLSDCWKYjSbJjNY.cntvSbaxaPaF.VCftObNHxqsGgX.aOnJVwXAW,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 69
+
+Tempo de execução: 0:12:26.078408
+Intervalo tempo geração: 0:00:46.340271
+geracao: 813
+genes: E.n.f tUSbsxmPPMMVICtOtuHxuvx XGJMnEKwyLSDCWLYjSbJjNY.cntwSbaxaPaF.VCftObNKxqsG X.aOnJVwXAWTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 70
+
+Tempo de execução: 0:13:02.543060
+Intervalo tempo geração: 0:00:36.464621
+geracao: 821
+genes: E.n.f tUSbsxmPPMMVICtOtuHxuvx XGJMnEKwyLSDCWLYjSbJjNY.cntvSbaxaPaF.VCftObNHxqsGgX.aOnJVEX W,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 71
+
+Tempo de execução: 0:13:35.872961
+Intervalo tempo geração: 0:00:33.329865
+geracao: 849
+genes: E.n.f tUSbsxmPPMMVICtOtuHxuvx XGJMnEKwyLSDCWLYjSFJjNY.cntwSbaxaPaF.VCftObNKxqsGgX.aOnJVwXAWTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 72
+
+Tempo de execução: 0:14:19.482216
+Intervalo tempo geração: 0:00:43.609217
+geracao: 879
+genes: E.n.f tUSbswmPPMMVICAOtuHxuvx XGJMnEkwyLSDCWLYjSbJjNY.cntvSbaxaPaF.VCftObNHxqsGgX.aOnJVEX W,CWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 73
+
+Tempo de execução: 0:15:33.795775
+Intervalo tempo geração: 0:01:14.313528
+geracao: 904
+genes: E.n.f tUSbsxmPDMMVIfoOtuHQuvx XGJMnEKwyLSDCWKYjSbJjNY.cntwSbaxaPaFzVCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 74
+
+Tempo de execução: 0:16:00.713165
+Intervalo tempo geração: 0:00:26.917360
+geracao: 917
+genes: E.n.f tUSbsxmPDMMVIfoOtuHQhvx XGJMnEKwyLSDCWKYjSbJjNY.cntv,baxaPaF.VCftObNHxqsGgX.aOnJVwXAW, WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 75
+
+Tempo de execução: 0:17:18.380099
+Intervalo tempo geração: 0:01:17.666889
+geracao: 961
+genes: E.n.f tUSbsxmPDMMVIfoOtuHQuvx XGJMnEKwyLSDCWKYjSFJjNY.cntwSbaxaPaFzVCftObNKxbsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 76
+
+Tempo de execução: 0:17:57.192423
+Intervalo tempo geração: 0:00:38.812281
+geracao: 976
+genes: E.n.f tUSbsxmPDMMVIfoOtuHQhvx XGJMnEKwyLSDCWKYjSbJjNY.cnEwSbaxaPaFzVCftObNKxqsG X.aOnJVwX OTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 77
+
+Tempo de execução: 0:18:22.011781
+Intervalo tempo geração: 0:00:24.819329
+geracao: 1001
+genes: E.n.f tUSbsxmPDMMVI oOtuHQhvx XGJMnEKwyLSDCWKYjSbJjNY.cnEwSbaxaPaFzVCftObNKxqsG X.aOnJVwX OTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 78
+
+Tempo de execução: 0:19:23.110423
+Intervalo tempo geração: 0:01:01.098615
+geracao: 1052
+genes: E.n.f tUSbsImPDMMVIfoOtuHQhvx XGJMMEKwyLSDCWLYjSbJjNY.cnEwSbaxaPaFzVCftObNKxqsG X.aOnJVwX OTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 79
+
+Tempo de execução: 0:20:19.092310
+Intervalo tempo geração: 0:00:55.981854
+geracao: 1057
+genes: E.n.f tUSbsxmRDMMVI oOtuHQhvx XGJMnEKwyLSDCWKYjSbJjNY.cnEwSvaxaPaFzOCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 80
+
+Tempo de execução: 0:20:41.639594
+Intervalo tempo geração: 0:00:22.547149
+geracao: 1093
+genes: E.n.f tUSbswmPDMMVIfoOtuHQhvx XGJMMEKwyLSDCWLYjSbJjNY.cnEwSvaxaPaFzOCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 81
+
+Tempo de execução: 0:21:49.757639
+Intervalo tempo geração: 0:01:08.118014
+geracao: 1121
+genes: E.n.f tUSbswmPDMMVIfoOtuHQhvx XGJMMEKwyLSDCWLYjSbJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 82
+
+Tempo de execução: 0:22:40.823676
+Intervalo tempo geração: 0:00:51.066002
+geracao: 1155
+genes: E.n.f tUSbfxmRDMMVI oOtuHQhvx XGJMnEKwyLSDCWKYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 83
+
+Tempo de execução: 0:23:52.917221
+Intervalo tempo geração: 0:01:12.093518
+geracao: 1181
+genes: E.n.f tUSbswmPDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJVwX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 84
+
+Tempo de execução: 0:24:21.401757
+Intervalo tempo geração: 0:00:28.484506
+geracao: 1194
+genes: E.n.f tUSbswmPDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJswX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 85
+
+Tempo de execução: 0:24:46.104880
+Intervalo tempo geração: 0:00:24.703088
+geracao: 1232
+genes: E.n.f tUSbfwmPDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJswX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 86
+
+Tempo de execução: 0:25:32.364506
+Intervalo tempo geração: 0:00:46.259587
+geracao: 1270
+genes: E.n.f tUSbfwmhDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJsOX WTCWKYjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 87
+
+Tempo de execução: 0:26:16.359421
+Intervalo tempo geração: 0:00:43.994888
+geracao: 1282
+genes: E.n.f tUSbswmPDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYjSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJswX WT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 88
+
+Tempo de execução: 0:27:01.983179
+Intervalo tempo geração: 0:00:45.623728
+geracao: 1306
+genes: E.n.f tUSbfwmhDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJswX WT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 89
+
+Tempo de execução: 0:27:39.335942
+Intervalo tempo geração: 0:00:37.352724
+geracao: 1337
+genes: E.n.f tUSbfwmhDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpSFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJswX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 90
+
+Tempo de execução: 0:28:53.660124
+Intervalo tempo geração: 0:01:14.324151
+geracao: 1361
+genes: E.n.f tUSbfwmhDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvSvaxaPaFzOCftObNKxbsG X.aOnJswX WT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 91
+
+Tempo de execução: 0:29:42.414697
+Intervalo tempo geração: 0:00:48.754504
+geracao: 1388
+genes: E.n.f tUSbfwmhDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvSvaxaPaFzOCftObNKxqsG X.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 92
+
+Tempo de execução: 0:31:18.508758
+Intervalo tempo geração: 0:01:36.094029
+geracao: 1430
+genes: E.n.f tUSbfwmRDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpSFJjNY.cnEvSvaxaPaFzOCftObNKxqsGgX.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 93
+
+Tempo de execução: 0:32:51.832676
+Intervalo tempo geração: 0:01:33.323872
+geracao: 1441
+genes: E.n.f tUSbfwmRDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvSvaxaPaFzOCftObNKxqsGgX.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 94
+
+Tempo de execução: 0:34:01.700856
+Intervalo tempo geração: 0:01:09.866633
+geracao: 1480
+genes: E.n.f tUSbfwmRDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftObNKxqsGgX.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 95
+
+Tempo de execução: 0:35:12.884558
+Intervalo tempo geração: 0:01:11.183677
+geracao: 1514
+genes: E.n.f tUSbfwmRDMMVIfoOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftObNKxbsGgX.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 96
+
+Tempo de execução: 0:36:24.622296
+Intervalo tempo geração: 0:01:11.737700
+geracao: 1538
+genes: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftObNKlqsGgX.aOnJsOX OT WKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 97
+
+Tempo de execução: 0:37:19.714355
+Intervalo tempo geração: 0:00:55.092019
+geracao: 1566
+genes: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftObNKxbsGgX.aOnJsOX OT SKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 98
+
+Tempo de execução: 0:43:02.462073
+Intervalo tempo geração: 0:05:42.747697
+geracao: 1625
+genes: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKxbsGgX.aOnJsOX OT SKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 99
+
+Tempo de execução: 0:45:14.187860
+Intervalo tempo geração: 0:02:11.725746
+geracao: 1658
+genes: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+objet: E.n.f tUSbfwmRDMMVI oOtuHQhvx XGJMMEkwyLSDCWLYpzFJjNY.cnEvYvaxaPaFzOCftBbNKlbsGgX.aOnJsOX OT SKcjSbF
+fitness: 100
+
